@@ -1,0 +1,40 @@
+/* estilo da página principal*/
+*{
+    box-sizing:content-box ;
+}
+
+body{
+    background-color: rgba(50,50,50,1);
+}
+/* regra por tag*/
+h1{
+    color:yellow !important;
+}
+
+/* regra por classe*/
+.titulo{
+    color:cornflowerblue !important;
+}
+
+/* regra por id*/
+#titulo{
+    color:chartreuse !important;
+    font-size: 1rem;
+}
+
+.caixa{
+    width:50vw;
+    min-width: 200px;
+    max-width: 500px;
+    height: 50vh;
+    margin: 50px 30px 60px 100px;
+    background-color: chocolate;
+}
+
+.caixa-verde{
+    
+    width:80px;
+    height: 80px;
+    margin: 30px 10px 40px 5px;
+    background-color: green;
+}
