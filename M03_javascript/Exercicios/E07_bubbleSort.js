@@ -43,12 +43,9 @@ function ordenaVetor(lista,ordem){
                 }
             }
         }
-
-
         break;
 
         case 'decrescente': 
-
 
         for(let atual = 0; atual < vetor.length; atual++){
             
