@@ -1,0 +1,8 @@
+.lista{
+    list-style-type: none;
+    background-color: orangered;
+    color:darkgoldenrod !important;
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 2px;
+}
